@@ -23,7 +23,7 @@ public class Main {
         System.out.println("The price of coffee is $" + priceCoffee + ".");
         String favoriteLetter = "D is my favorite letter";
         System.out.println(favoriteLetter);
-        boolean raining
+
 
 
     }
